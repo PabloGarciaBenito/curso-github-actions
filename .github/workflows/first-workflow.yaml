@@ -27,4 +27,4 @@ jobs:
         run: Write-Output "Windows String"
       
       - name: Error step
-        run: doesnotexist
+        run: doesnotexistss
